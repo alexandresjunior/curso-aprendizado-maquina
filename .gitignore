@@ -4,6 +4,8 @@ __pycache__/
 .agents/
 .claude/
 datasets/cred*
+datasets/MNIST/
+datasets/online*
 Códigos/catboost_info/
 Códigos/.ipynb_checkpoints/
 datasets/.ipynb_checkpoints/
